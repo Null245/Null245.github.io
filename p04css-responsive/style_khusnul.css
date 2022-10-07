@@ -1,0 +1,43 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    pading: 0;
+    font-family: arial;
+    background-color: #F6F9FF;
+}
+
+.data_pribadi {
+    margin-top: 30px;
+}
+
+.pendidikan_terakhir {
+    margin-top: 30px;
+}
+
+h5 {
+    color: red;
+}
+
+.ttd {
+    text-align: center;
+}
+
+hr {
+    margin-top: 50px;
+}
+
+@media screen and (max-width: 600px) {
+    html {
+        font-size: 50%;
+    }
+
+    .logo {
+        width: 100%;
+        height: 100%;
+    }
+
+    table {
+        width: 100%;
+        height: 100%;
+    }
+  }
