@@ -29,6 +29,8 @@ hr {
 @media screen and (max-width: 600px) {
     html {
         font-size: 50%;
+        margin: 0;
+        padding: 0;
     }
 
     .logo {
